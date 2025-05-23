@@ -1,0 +1,19 @@
+Name:Mariam Ashraf Wageh
+2)pull request:requesting to pull your changes from one branch (often a feature branch) into another branch (usually main or master).
+request:a request is any call or query made to a server or service asking for some data or action like API requests or http request
+
+4)git branch -d new-email
+
+5)git push origin main
+
+6)is a Git command used to move or combine a sequence of commits to a new base commit. It helps you rewrite commit history in a cleaner, more linear way.
+how to use it:
+git checkout feature-1
+git fetch origin          
+git rebase origin/main
+
+7)git log origin/main
+
+8)git diff new-email
+
+9)a tag is a label or marker used to point to a specific commit, usually to mark releases, versions, or milestones in your project.
